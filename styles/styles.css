@@ -213,7 +213,7 @@ Commons Styles
   top: 40%;
   right: 20%;
   transform: translateY(-50%);
-  background: #a86795;
+  background: #f0248d;
   z-index: 34;
 }
 .doctor-name {
@@ -312,16 +312,17 @@ Commons Styles
 }
 
 .title-health {
-  color: #007dc2;
+  color: #000;
 }
 
 .title-priority {
-  color: #a86795;
+  color: #f0248d;
 }
 
 .description {
   color: #333;
   font-size: 18px;
+  font-weight: bold;
   line-height: 1.6;
   margin-bottom: 50px;
   max-width: 500px;
