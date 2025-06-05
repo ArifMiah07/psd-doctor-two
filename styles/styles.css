@@ -69,6 +69,16 @@ Commons Styles
   color: #333;
 }
 
+.logo-img{
+  width: 120px;
+  height: auto;
+  margin-right: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
 .logo-icon {
   width: 40px;
   height: 40px;
@@ -257,7 +267,7 @@ Commons Styles
 }
 
 .floating-text-container {
-  width: 200px;
+  width: 240px;
   height: fit-content;
   position: absolute;
   top: 85%;
@@ -272,7 +282,8 @@ Commons Styles
 }
 .floating-text-container h2 {
   color: white;
-  font-size: 24px;
+  font-size: 18px;
+  text-transform: uppercase;
   font-weight: bold;
   margin: 0;
   padding: 20px 10px;
